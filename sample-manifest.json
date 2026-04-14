@@ -1,0 +1,12 @@
+{
+  "export_job_id": "95eeaa57-4d75-4d3b-9406-092f8b377e73",
+  "id_short": 610865,
+  "published_at": "2026-04-14T07:20:09Z",
+  "repo_name": "top-300-active-restaurant-whales-with-email-in-chicago-illinois-us-sample-610865",
+  "sample_asset_name": "beamstation_610865_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/610865/beamstation_610865_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_records": 30,
+  "sample_sha256": "034e368643b354a86bf1fa50be236a0d9978e726b5e0ac05e42418666ab46c08",
+  "sample_size_bytes": 143810,
+  "total_records": 300
+}
