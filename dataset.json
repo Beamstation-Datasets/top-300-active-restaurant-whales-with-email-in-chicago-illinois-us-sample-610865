@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
   "config_name": "Top 300 Active Restaurant Whales with Email in Chicago, Illinois, US",
-  "export_job_id": "95eeaa57-4d75-4d3b-9406-092f8b377e73",
+  "export_job_id": "700f0414-7be1-4fca-a292-e91fc66ee6d2",
   "github_org": "Beamstation-Datasets",
   "id_short": 610865,
   "location_name": "Chicago",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/610865/beamstation_610865_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
   "sample_records": 30,
-  "sample_sha256": "034e368643b354a86bf1fa50be236a0d9978e726b5e0ac05e42418666ab46c08",
-  "sample_size_bytes": 143810,
+  "sample_sha256": "2b66c3f3c138034cc5c69d79c0bc8ed34c9444463feec5e5fe4b77cf3c872656",
+  "sample_size_bytes": 140918,
   "total_records": 300,
-  "updated_at": "2026-04-07T17:08:24.598190+00:00"
+  "updated_at": "2026-04-14T22:48:30.382317+00:00"
 }
